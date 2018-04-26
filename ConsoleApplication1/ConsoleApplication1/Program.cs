@@ -10,23 +10,23 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            //改背景跟字的顏色
+            // 改背景跟字的顏色
             Console.ForegroundColor = ConsoleColor.White;
             Console.BackgroundColor = ConsoleColor.Blue;
 
-            //讓使用者輸入身高體重並讓電腦將輸入的數字剖析
+            // 讓使用者輸入身高體重並讓電腦將輸入的數字剖析
             Console.Write("請輸入身高:");
             double high = double.Parse(Console.ReadLine());
             Console.Write("請輸入體重:");
             double weight = double.Parse(Console.ReadLine());
 
-            //BMI計算
+            // BMI計算
             double BMI = weight / ((high * 0.01)* (high * 0.01));
 
-            //讓電腦顯示BMI
+            // 讓電腦顯示BMI
             Console.WriteLine("您的BMI值是:" + BMI);
 
-            //條件們
+            // 條件們
             if (BMI <18.5)
             {
                 Console.WriteLine("您的體重過輕");
@@ -48,7 +48,8 @@ namespace ConsoleApplication1
                 Console.WriteLine("您的體重不符合兵役標準");
             }
 
-            //結束
+            // 結束
+
             Console.ReadLine();
 
 
