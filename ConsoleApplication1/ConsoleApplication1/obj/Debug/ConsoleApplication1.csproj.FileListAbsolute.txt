@@ -5,3 +5,6 @@ C:\LazyCat\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1
 C:\LazyCat\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\LazyCat\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
 C:\lazycat\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\bmi2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\bmi2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\bmi2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
